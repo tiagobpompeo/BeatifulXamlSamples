@@ -13,7 +13,7 @@ using Xamarin.Forms;
 namespace BeautifulXaml
 {
     public partial class SlidingUpPanel : ContentPage
-    {
+    {//teste
         private static readonly CompositeDisposable EventSubscriptions = new CompositeDisposable();
         private readonly PanGestureRecognizer _panGesture = new PanGestureRecognizer();
         private double _transY;

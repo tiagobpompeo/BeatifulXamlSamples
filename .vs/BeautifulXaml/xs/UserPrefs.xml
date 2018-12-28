@@ -1,11 +1,25 @@
-﻿<Properties StartupConfiguration="{7BEEBC2D-9FEA-4C90-B8BD-9BD39CC4B7BB}|Default">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{7BEEBC2D-9FEA-4C90-B8BD-9BD39CC4B7BB}|Default">
   <MonoDevelop.Ide.ItemProperties.BeautifulXaml.Android PreferredExecutionTarget="Android.marshmallow6_0" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BeautifulXaml/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeautifulXaml/SlidingUpPanel.xaml.cs">
     <Files>
+      <File FileName="BeautifulXaml/App.xaml.cs" Line="17" Column="42" />
       <File FileName="BeautifulXaml/SlidingUpPanel.xaml" Line="55" Column="15" />
-      <File FileName="BeautifulXaml/SlidingUpPanel.xaml.cs" Line="5" Column="22" />
-      <File FileName="BeautifulXaml/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="BeautifulXaml/SlidingUpPanel.xaml.cs" Line="16" Column="6" />
+      <File FileName="BeatifulXamlSamples Status" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BeautifulXaml" expanded="True">
+            <Node name="BeautifulXaml" expanded="True">
+              <Node name="SlidingUpPanel.xaml" expanded="True">
+                <Node name="SlidingUpPanel.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
