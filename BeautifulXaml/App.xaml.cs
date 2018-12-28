@@ -14,8 +14,9 @@ namespace BeautifulXaml
             //MainPage = new SkyAdventures();
             //MainPage = new SocialNetwork();
             //MainPage = new GreatPlaces();
-            MainPage = new SlidingUpPanel();
+            // MainPage = new SlidingUpPanel();
 
+             MainPage = new TimeLine();
         }
 
         protected override void OnStart()

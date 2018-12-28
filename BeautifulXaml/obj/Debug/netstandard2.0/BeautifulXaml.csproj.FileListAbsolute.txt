@@ -12,3 +12,5 @@
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.dll
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.pdb
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.csprojAssemblyReference.cache
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/TimeLine.xaml.g.cs

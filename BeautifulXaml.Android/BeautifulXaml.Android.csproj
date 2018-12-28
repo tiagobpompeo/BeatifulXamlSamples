@@ -116,6 +116,9 @@
     <AndroidResource Include="Resources\drawable\if_twitter_circle_color_107170.png" />
     <AndroidResource Include="Resources\drawable\list.png" />
     <AndroidResource Include="Resources\drawable\map_bg.png" />
+    <AndroidResource Include="Resources\drawable\Bullet.png" />
+    <AndroidResource Include="Resources\drawable\FadeToWhite.png" />
+    <AndroidResource Include="Resources\drawable\YogaImage.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

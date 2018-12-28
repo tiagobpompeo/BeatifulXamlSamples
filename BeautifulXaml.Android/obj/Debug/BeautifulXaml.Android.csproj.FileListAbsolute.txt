@@ -62,6 +62,9 @@
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/obj/Debug/R.cs.flag
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/obj/Debug/R.txt
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/obj/Debug/uploadflags.txt
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/obj/Debug/res/drawable/bullet.png
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/obj/Debug/res/drawable/fadetowhite.png
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/obj/Debug/res/drawable/yogaimage.png
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/bin/Debug/Mono.Android.pdb
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml.Android/bin/Debug/Xamarin.Forms.Xaml.pdb

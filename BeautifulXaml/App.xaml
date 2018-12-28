@@ -7,6 +7,7 @@
             <Color x:Key="BodyTextColor">#C3C3C3</Color>
             <Color x:Key="ButtonBackgroundColor">#5992FF</Color>
             <Color x:Key="BackgroundColor">White</Color>
+              <Color x:Key="TimelineColor">#E4B6C3</Color>
             <!--  font families  -->
             <OnPlatform x:Key="RegularFontFamily" x:TypeArguments="x:String">
                 <On Platform="iOS">HelveticaNeue</On>
