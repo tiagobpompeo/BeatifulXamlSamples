@@ -1,0 +1,14 @@
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/bin/Debug/netstandard2.0/BeautifulXaml.deps.json
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/bin/Debug/netstandard2.0/BeautifulXaml.dll
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/bin/Debug/netstandard2.0/BeautifulXaml.pdb
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/GreatPlaces.xaml.g.cs
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/SkyAdventures.xaml.g.cs
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/SlidingUpPanel.xaml.g.cs
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/SocialNetwork.xaml.g.cs
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.csproj.CoreCompileInputs.cache
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.AssemblyInfoInputs.cache
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.AssemblyInfo.cs
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.dll
+/Users/uniomteam/Documents/PROJETOS/BeatifulXamlSamples/BeautifulXaml/obj/Debug/netstandard2.0/BeautifulXaml.pdb
